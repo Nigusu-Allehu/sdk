@@ -162,6 +162,9 @@
   <data name="CmdNoCacheOptionDescription" xml:space="preserve">
     <value>Do not cache packages and http requests.</value>
   </data>
+  <data name="CmdNoHttpCacheOptionDescription" xml:space="preserve">
+    <value>Swtich off http cache caching.</value>
+  </data>
   <data name="CmdIgnoreFailedSourcesOptionDescription" xml:space="preserve">
     <value>Treat package source failures as warnings.</value>
   </data>
